@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Cycling Trivialities
+title: Chi the Freckle
 description: These are my cycling trivialities.
 github_username: ficarelli
 
 # Email and twitter are optional:
 email: c.ficarelli@gmail.com
-twitter_username: 
+twitter_username: frecklelli
 
 # Set this to true to get LaTeX math equation support
 use_math: true
