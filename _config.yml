@@ -22,6 +22,7 @@ theme: hacker
 plugins:
   - jekyll-feed
   - jekyll-octicons
+  - jekyll-theme-hacker
 
 titles_from_headings:
   enabled:     true
